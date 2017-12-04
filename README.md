@@ -31,9 +31,9 @@ Add your name to the <code>CONTRIBUTORS.md</code> file using the following forma
 Add a <code>fizz_buzz_yourusername.xx</code> script to the <code>scripts</code> directory in any language of your choice. Here is a example:
 
 <pre>
-// Language: Python
-// Name: Wes Murray
-// GitHub: https://github.com/getwes
+# Language: Python
+# Name: Wes Murray
+# GitHub: https://github.com/getwes
 
 def fizzbuzz(n):
 
