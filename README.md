@@ -12,10 +12,12 @@ Use this project to make your first contribution to an open source project on Gi
 Here are some easy ways to contribute to this project:
 
 <ul>
+    <li>Create a public fork of this project</li>
     <li>
         Add your name to the     <code>CONTRIBUTORS.md</code> file.
     </li>
     <li>Create a simple <code>FizzBuzz</code> script in any language and add it to the scripts directory.</li>
+    <li>Create a pull request</li>
 </ul>
 
 ## Conventions
