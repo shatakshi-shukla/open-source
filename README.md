@@ -24,6 +24,7 @@ Add your name to the <code>CONTRIBUTORS.md</code> file using the following forma
 ### Name: [Your name]
 - Place: Country
 - GitHub: [GitHub account name](GitHub link)
+- Bio: Something about you
 </pre>
 
 ## Create a FizzBuzz script
