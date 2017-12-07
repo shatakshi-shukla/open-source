@@ -5,12 +5,6 @@
  * Github: https://github.com/ahmeddabak/
  */
 
-
-/**
- * Get the request urls details
- * @param $n
- * @return string
- */
 function fizzbuzz($n)
 {
     if ($n % 3 == 0 and $n % 5 == 0)
