@@ -8,9 +8,18 @@
 
 /**
  * Get the request urls details
- * @return array(scheme, host, port, user, pass, path, query, fragment)
+ * @param $n
+ * @return string
  */
-function get_request_details()
+function fizzbuzz($n)
 {
-    return parse_url($_SERVER['REQUEST_URI']);
+    if ($n % 3 == 0 and $n % 5 == 0)
+        return 'FizzBuzz';
+    elseif ($n % 3 == 0)
+        return 'Fizz';
+    elseif ($n % 5 == 0)
+        return 'Buzz';
+    else {
+        return (string)$n;
+    }
 }
