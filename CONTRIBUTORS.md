@@ -7,3 +7,8 @@
 - Place: Philippines
 - GitHub: [kszyrvercobrador](https://github.com/kszyrvercobrador)
 - Bio: Full stack web developer
+
+### Name: Aranya Sen
+- Place: India
+- GitHub: [Aranya Sen](https://github.com/senaranya)
+- Bio: Full stack web developer
